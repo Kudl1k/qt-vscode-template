@@ -1,0 +1,9 @@
+/Users/stepankudlacek/VSCode/qttests/blog-vscode-template/build/CMakeFiles/hello_world.dir
+/Users/stepankudlacek/VSCode/qttests/blog-vscode-template/build/CMakeFiles/edit_cache.dir
+/Users/stepankudlacek/VSCode/qttests/blog-vscode-template/build/CMakeFiles/rebuild_cache.dir
+/Users/stepankudlacek/VSCode/qttests/blog-vscode-template/build/CMakeFiles/list_install_components.dir
+/Users/stepankudlacek/VSCode/qttests/blog-vscode-template/build/CMakeFiles/install.dir
+/Users/stepankudlacek/VSCode/qttests/blog-vscode-template/build/CMakeFiles/install/local.dir
+/Users/stepankudlacek/VSCode/qttests/blog-vscode-template/build/CMakeFiles/install/strip.dir
+/Users/stepankudlacek/VSCode/qttests/blog-vscode-template/build/CMakeFiles/hello_world_autogen_timestamp_deps.dir
+/Users/stepankudlacek/VSCode/qttests/blog-vscode-template/build/CMakeFiles/hello_world_autogen.dir

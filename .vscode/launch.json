@@ -8,10 +8,9 @@
       "name": "hello_world_qt6 (MSVC)",
       "type": "cppvsdbg",
       "request": "launch",
-      // Resolved by CMake Tools:
       "program": "${command:cmake.launchTargetPath}",
       "cwd": "${command:cmake.launchTargetDirectory}",
-      "visualizerFile": "${workspaceFolder}/qt6.natvis",
+      "visualizerFile": "/Users/stepankudlacek/Library/Application Support/Code/User/workspaceStorage/de6749e26dbf433d64ca073256787ca8/tonka3000.qtvsctools/qt.natvis.xml",
       "sourceFileMap": {
         "C:/work/build/qt5_workdir/w/s": "${QTDIR}../Src",
         "Q:/qt5_workdir/w/s": "${QTDIR}../Src",
@@ -29,8 +28,9 @@
         "MIMode": "gdb"
       },
       "osx": {
-        "MIMode": "lldb",
-      }
+        "MIMode": "lldb"
+      },
+      "visualizerFile": "/Users/stepankudlacek/Library/Application Support/Code/User/workspaceStorage/de6749e26dbf433d64ca073256787ca8/tonka3000.qtvsctools/qt.natvis.xml"
     }
   ]
 }
