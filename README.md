@@ -12,7 +12,7 @@ Three directories
 6. `./hello_world`
 
 ## Vscode settings
-c_cpp_properties.json
+c_cpp_properties.json (for mac)
 ``` json
 {
     "configurations": [
