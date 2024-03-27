@@ -12,7 +12,8 @@ Three directories
 6. `./hello_world`
 
 ## Vscode settings
-c_cpp_properties.json (for mac)
+### c_cpp_properties.json
+macOS
 ``` json
 {
     "configurations": [
@@ -38,5 +39,29 @@ c_cpp_properties.json (for mac)
     ],
     "version": 4
 }
-
 ```
+Linux
+``` json
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/headers/**",
+                "${workspaceFolder}/ui/**",
+                "${workspaceFolder}/src/**",
+                "/path/to/qt/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
+```
+
+
